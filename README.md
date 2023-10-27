@@ -13,7 +13,7 @@ In this sub-project, we focus on understanding the trajectories of drones and th
 ![Avoidance](img_5.png)
 
 ### Weather Conditions' Impact
-![Weather Impact](img_6.png)
+![Weather Impact](img_12.png)
 
 ### Realistic Drone Animations
 ![Animations](img_8.png)
@@ -28,10 +28,7 @@ This sub-project provides general information about drones' capabilities in savi
 ### Measuring Coordinates
 ![Coordinate Measurement](img_10.png)
 
-### Drone Distance Analysis
+### Drone Distance Analysis and Coordinate Detection Accuracy
 ![Distance Analysis](img_11.png)
-
-### Coordinate Detection Accuracy
-![Coordinate Accuracy](img_11.png)
 
 Thank you for exploring this dissertation project. Feel free to delve into each sub-project to gain a deeper understanding of the fascinating world of drones and their versatile applications.
